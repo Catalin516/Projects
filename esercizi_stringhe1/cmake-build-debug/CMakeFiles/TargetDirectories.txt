@@ -1,0 +1,3 @@
+C:/Users/stanc/OneDrive/Desktop/Clion/esercizi_stringhe1/cmake-build-debug/CMakeFiles/esercizi_stringhe1.dir
+C:/Users/stanc/OneDrive/Desktop/Clion/esercizi_stringhe1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stanc/OneDrive/Desktop/Clion/esercizi_stringhe1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
