@@ -1,0 +1,3 @@
+C:/Users/stanc/OneDrive/Desktop/find_the_treasure/cmake-build-stanc/CMakeFiles/raylib_template_portable_windows.dir
+C:/Users/stanc/OneDrive/Desktop/find_the_treasure/cmake-build-stanc/CMakeFiles/edit_cache.dir
+C:/Users/stanc/OneDrive/Desktop/find_the_treasure/cmake-build-stanc/CMakeFiles/rebuild_cache.dir
